@@ -142,7 +142,7 @@
     .d-logo:focus {
       background-image: url(../img/dvrpc_logo_white.svg);
     }
-    .rvz-full-logo {
+    .nsp-full-logo {
     height: 140px;
     margin: 0px 11px 5px 5px;
     float:right;
@@ -152,10 +152,10 @@
       /* height:60px; */
       width:135px;
     }
-    #rvz-small-logo {
+    #small-logo {
         padding: 0px 40px 0px 0px;
         /* height:60px; */
-        width:145px;
+        width:235px;
      }
      .dvrpc-logo-full {
       width: 174px;
@@ -247,7 +247,10 @@
       margin:0px 5px 0px 0px;
     }
     .item {
-      padding: 2px;
+      padding: 0px 0px 5px 0px;
+      margin-left: 50px;
+      text-indent: -38px;
+      margin-right: 10px;
     }
     #more_info_p {
       margin: 0px 12px 0px 25px;
